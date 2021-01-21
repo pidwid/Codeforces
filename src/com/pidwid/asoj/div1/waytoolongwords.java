@@ -1,4 +1,4 @@
-package com.pidwid;
+package com.pidwid.asoj.div1;
 import java.util.Scanner;
 
 //71A - Way Too Long Words

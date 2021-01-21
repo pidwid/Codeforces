@@ -1,4 +1,4 @@
-package com.pidwid;
+package com.pidwid.asoj.div1;
 import java.util.Scanner;
 
 // 112A - Petya and Strings
