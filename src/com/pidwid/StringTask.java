@@ -1,6 +1,7 @@
 package com.pidwid;
 import java.util.Scanner;
 
+// 118A - String Task
   public class StringTask {
 
     public static void main(String[] args) {
