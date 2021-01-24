@@ -15,6 +15,7 @@ public class LuckyDivision{
       }
     }
     System.out.println("NO");
+    sc.close();
   }
 }
 

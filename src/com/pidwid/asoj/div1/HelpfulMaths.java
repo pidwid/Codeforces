@@ -23,5 +23,6 @@ public class HelpfulMaths {
       else res.append(intarray[j]).append('+');
     }
     System.out.println(res);
+    sc.close();
   }
 }

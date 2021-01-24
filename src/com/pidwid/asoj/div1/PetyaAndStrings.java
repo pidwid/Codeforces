@@ -21,6 +21,7 @@ public class PetyaAndStrings {
     if (text1.compareTo(text2) < 0) {
       System.out.println("-1");
     }
+    input.close();
   }
 }
 // bwuEhEveouaTECagLZiqmUdxEmhRSOzMauJRWLQMppZOumxhAmwuGeDIkvkBLvMXwUoFmpAfDprBcFtEwOULcZWRQhcTbTbX

@@ -19,5 +19,6 @@ public class ChatRoom{
       return;
     }
     System.out.println("NO");
+    sc.close();
   }
 }

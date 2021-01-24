@@ -11,5 +11,6 @@ public class Watermelon {
     num=input.nextInt();
     if(num %2 == 0 && num >2) System.out.print("YES");
     else System.out.print("NO");
+    input.close();
   }
 }

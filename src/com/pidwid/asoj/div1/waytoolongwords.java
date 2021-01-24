@@ -14,5 +14,6 @@ public class waytoolongwords {
       else System.out.println(text.charAt(0) + "" + (len-2) + "" + text.charAt(len-1));
       num--;
     }
+    input.close();
   }
 }

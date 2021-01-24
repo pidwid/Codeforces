@@ -14,5 +14,6 @@ public class Dubstep {
       str.append(i).append(" ");
     }
     System.out.println(str.toString().trim());
+    sc.close();
   }
 }

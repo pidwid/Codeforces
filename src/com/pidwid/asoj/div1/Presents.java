@@ -17,6 +17,7 @@ public class Presents {
       if(i == num) System.out.print(map.get(i));
       else System.out.print(map.get(i) + " ");
     }
+    sc.close();
   }
 
 }

@@ -16,5 +16,6 @@ int a = 0 ,b = 0;
       }
     int count = Math.abs(3 - a) + Math.abs(3 - b);
     System.out.println(count);
+    sc.close();
   }
 }
