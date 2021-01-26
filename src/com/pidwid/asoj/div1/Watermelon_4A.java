@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 4A - Watermelon
 
-public class Watermelon {
+public class Watermelon_4A {
   public static void main(String[] args) {
     int num;
     Scanner input = new Scanner(System.in);

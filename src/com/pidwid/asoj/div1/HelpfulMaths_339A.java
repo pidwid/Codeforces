@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // 339A - Helpful Maths
-public class HelpfulMaths {
+public class HelpfulMaths_339A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

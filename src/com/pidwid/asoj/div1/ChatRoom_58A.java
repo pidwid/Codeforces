@@ -2,8 +2,8 @@ package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
 
-// 58-A Chat Room
-public class ChatRoom{
+// 58A Chat Room
+public class ChatRoom_58A {
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     String text = sc.nextLine();

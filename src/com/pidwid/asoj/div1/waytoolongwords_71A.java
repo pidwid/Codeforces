@@ -1,8 +1,8 @@
 package com.pidwid.asoj.div1;
 import java.util.Scanner;
 
-//71A - Way Too Long Words
-public class waytoolongwords {
+// 71A - Way Too Long Words
+public class waytoolongwords_71A {
   public static void main(String[] args) {
     int num;
     Scanner input = new Scanner(System.in);

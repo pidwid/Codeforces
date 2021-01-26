@@ -2,8 +2,8 @@ package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
 
-// 122-A Lucky Division
-public class LuckyDivision{
+// 122A Lucky Division
+public class LuckyDivision_122A {
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     int num = sc.nextInt();

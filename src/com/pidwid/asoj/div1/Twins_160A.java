@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 // 160A - Twins
-public class Twins {
+public class Twins_160A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

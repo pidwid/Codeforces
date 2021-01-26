@@ -2,7 +2,7 @@ package com.pidwid.asoj.div1;
 import java.util.Scanner;
 
 // 112A - Petya and Strings
-public class PetyaAndStrings {
+public class PetyaAndStrings_112A {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     String[] arr = new String[2];

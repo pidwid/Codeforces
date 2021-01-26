@@ -2,8 +2,8 @@ package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
 
-// 144-A Arrival of the General
-public class ArrivalOfTheGeneral {
+// 144A Arrival of the General
+public class ArrivalOfTheGeneral_144A {
   public static void main(String[] args){
     Scanner sc  = new Scanner(System.in);
     int inputSize = sc.nextInt();

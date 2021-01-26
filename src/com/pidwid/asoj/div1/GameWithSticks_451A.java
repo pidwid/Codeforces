@@ -3,8 +3,8 @@ package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
 
-// 451  Game With Sticks
-public class GameWithSticks {
+// 451A  Game With Sticks
+public class GameWithSticks_451A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

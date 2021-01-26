@@ -1,8 +1,8 @@
 package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
-
-public class BeautifulMatrix {
+// 263A Beautiful Matrix
+public class BeautifulMatrix_263A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

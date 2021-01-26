@@ -2,7 +2,7 @@ package com.pidwid.asoj.div1;
 import java.util.Scanner;
 
 // 118A - String Task
-  public class StringTask {
+  public class StringTask_118A {
 
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in);

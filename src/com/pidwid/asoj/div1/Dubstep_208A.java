@@ -2,8 +2,8 @@ package com.pidwid.asoj.div1;
 
 import java.util.Scanner;
 
-// 208 A Dubstep
-public class Dubstep {
+// 208A Dubstep
+public class Dubstep_208A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

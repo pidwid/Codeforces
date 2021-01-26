@@ -3,8 +3,8 @@ package com.pidwid.asoj.div1;
 import java.util.HashMap;
 import java.util.Scanner;
 
-// 136-A Presents
-public class Presents {
+// 136A Presents
+public class Presents_136A {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
