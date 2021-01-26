@@ -3,6 +3,7 @@ package com.pidwid.rounds;
 import java.util.Scanner;
 
 // Codeforces Round #697 (Div. 3)
+// https://codeforces.com/contest/1475/problem/B
 public class NewYearsNumber {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
