@@ -13,7 +13,7 @@ public class Expression_479A {
     no3 = sc.nextInt();
     sc.close();
     if(no1 == 1 || no2 == 1 || no3 == 1){
-      Integer arr = new Integer[6];
+      Integer[] arr = new Integer[6];
       arr[0] = no1 + no2 + no3;
       arr[1] = no1 * (no2 + no3);
       arr[2] = (no1 + no2) * no3;
@@ -23,7 +23,5 @@ public class Expression_479A {
       System.out.println(Collections.max(Arrays.asList(arr)));
     }
     else System.out.println(no1 * no2 *  no3);
-
-
   }
 }
